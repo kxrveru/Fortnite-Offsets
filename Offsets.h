@@ -1,0 +1,29 @@
+// ############ UPDATED ##############
+#define OFFSET_GWORLD 0x11DFAE08 // GG or 0x11F66558
+#define OFFSET_GINSTANCE 0x1D8 // GG
+#define OFFSET_LOCALPLAYER 0x38 // GG
+#define OFFSET_PLAYERCONTROLLER 0x30 // GG 
+#define OFFSET_ACKNOWLEDGEDPAWN 0x338 // GG
+#define OFFSET_PLAYERSTATE 0x2B0 // GG 
+#define OFFSET_GSTATE 0x160 // GG 
+#define OFFSET_PLAYERARRAY 0x2A8 // GG
+#define OFFSET_PAWNPRIVATE 0x308 // GG 
+#define OFFSET_SKELETALMESH 0x318 // GG 
+#define OFFSET_TEAMINDEX 0x1251 // GG 
+#define OFFSET_ROOTCOMPONENT 0x198 // GG 
+#define OFFSET_RELATIVELOCATION 0x120 // GG 
+#define OFFSET_BONEARRAY 0x598 // GG 0x5E0 or 0x598 so idk server are offline sorry
+ 
+// ############ NOT UPDATED ##############
+#define OFFSET_LASTSUBMIT 0x2E8 // G 
+#define OFFSET_LASTRENDER 0x2F0 // G 
+#define OFFSET_ISDYING 0x758 // G 
+#define OFFSET_COMPTOWORLD 0x1c0 // G
+
+Shall be updated
+
+
+
+
+
+Cred:UNNAMEDZ03
